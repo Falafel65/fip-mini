@@ -1,0 +1,8 @@
+# Binaires : à publier dans les releases, pas dans le dépôt
+*.exe
+*.pdb
+
+# Logo FIP (propriété de Radio France) : téléchargé par build.ps1, jamais versionné
+fip.svg
+fip.svg.tmp
+fip.ico
